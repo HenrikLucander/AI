@@ -1,0 +1,1 @@
+edge(1,3). edge(1,4). edge(2,5). edge(2,6). edge(3,6). edge(4,6). edge(5,6). edge(1,7). edge(2,7). edge(3,7). edge(5,7). edge(6,7). edge(4,8). edge(4,9). edge(6,9). edge(8,9). edge(1,10). edge(4,10). edge(9,10). edge(8,11). edge(10,11).

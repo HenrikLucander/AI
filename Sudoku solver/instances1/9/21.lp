@@ -1,0 +1,1 @@
+value(5,3,8) value(7,2,5) value(9,1,6) value(7,1,7) value(8,2,9) value(2,6,3) value(1,4,9) value(6,4,5) value(6,6,7) value(8,4,2) value(8,5,4) value(7,6,6) value(9,4,7) value(7,4,8) value(1,9,3) value(2,9,5) value(3,7,6) value(2,7,7) value(2,8,8) value(6,7,3) value(5,7,4) value(6,8,6) value(5,9,9) value(9,8,2)

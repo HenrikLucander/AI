@@ -1,0 +1,1 @@
+clue(7,1,3) clue(9,2,8) clue(9,1,9) clue(2,5,6) clue(2,6,8) clue(3,4,9) clue(4,6,2) clue(5,6,4) clue(5,5,5) clue(6,4,8) clue(7,4,4) clue(7,6,5) clue(9,5,7) clue(2,7,4) clue(1,9,6) clue(2,9,7) clue(3,8,8) clue(2,8,9) clue(5,8,2) clue(4,8,4) clue(6,7,7) clue(5,7,8) clue(4,9,9) clue(7,7,2) clue(9,7,3) clue(9,9,4) clue(9,8,5)

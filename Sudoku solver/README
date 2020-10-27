@@ -1,0 +1,9 @@
+Sample commands for testing your solution:
+./gen_solver.sh 4                   # generates solver for 4x4 sudokus
+./run_solver.sh instances1/4/1.lp 4 # runs the solver on one of the test instances
+
+The solver will be saved to tmp/solver<n>.fml; there will also be .sm files that are processed versions of the solver.
+
+For part 2, use gen_solver2.sh, run_solver2.sh and instances2/* instead.
+
+You need clasp to run the solver. https://potassco.org/clasp/
